@@ -1,0 +1,8 @@
+UserID, UserName, Email, PhoneNumber, Address, AccountCreatedDate
+1,Alice Johnson,alice@example.com,123-456-7890,123 Maple St,2023-01-15 08:30:00
+2,Bob Smith,bob@example.com,098-765-4321,456 Oak St,2022-11-20 10:00:00
+3,Charlie Brown,charlie@example.com,555-555-5555,789 Pine St,2023-06-01 09:45:00
+4,David Green,david@example.com,222-333-4444,101 Birch St,2022-09-15 10:00:00
+5,Emily White,mily@example.com,333-444-5555,202 Cedar St,2023-02-05 11:30:00
+6,Frank Lee,frank@example.com,444-555-6666,303 Walnut St,2022-12-25 16:00:00
+7,Grace Kim,grace@example.com,555-666-7777,404 Ash St,2023-03-18 14:20:00

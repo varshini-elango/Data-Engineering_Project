@@ -1,0 +1,6 @@
+LabelID, TransactionID, FraudReason, DateLabeled
+1, 1002,Suspiciously High Amount,2023-09-02 14:00:00
+2, 1004,Unusual Location,2023-09-04 19:00:00
+3, 1007,Unusually High Amount,2023-09-06 12:30:00
+4, 1010,Transaction in Uncommon Location,2023-09-08 16:30:00
+5, 1011,Multiple Large Transactions in Short Time,2023-09-09 17:30:00
