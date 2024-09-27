@@ -1,0 +1,6 @@
+user_id,user_name,user_email,location,account_creation_date
+1,Alice,alice@example.com,New York,2020-01-15
+2,Bob,bob@example.com,Los Angeles,2020-03-22
+3,Charlie,charlie@example.com,Chicago,2021-05-10
+4,David,david@example.com,Houston,2019-07-30
+5,Eva,eva@example.com,Phoenix,2022-08-14

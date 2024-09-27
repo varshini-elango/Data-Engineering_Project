@@ -1,0 +1,4 @@
+rule_id,description,risk_score
+1,High transaction amount,8
+2,Location mismatch,6
+3,Suspicious payment method,7
